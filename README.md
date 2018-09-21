@@ -1,2 +1,2 @@
-# script-sharefds
-php , javascript, jquery, codeigniter, css, android, apple app, laravel, php framework, python
+# summer-note edition 
+summer note remove script tag, jquery , summer-note, summer-note edition 
